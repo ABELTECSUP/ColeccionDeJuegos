@@ -14,6 +14,7 @@
 		B5E9DEDE2CAE1232004881CA /* QuispeMaqqueAbelColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B5E9DEDC2CAE1232004881CA /* QuispeMaqqueAbelColeccionDeJuegos.xcdatamodeld */; };
 		B5E9DEE02CAE1238004881CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5E9DEDF2CAE1238004881CA /* Assets.xcassets */; };
 		B5E9DEE32CAE1238004881CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5E9DEE12CAE1238004881CA /* LaunchScreen.storyboard */; };
+		B5E9DEEB2CAE195D004881CA /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E9DEEA2CAE195D004881CA /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B5E9DEDF2CAE1238004881CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5E9DEE22CAE1238004881CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5E9DEE42CAE1238004881CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5E9DEEA2CAE195D004881CA /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B5E9DED52CAE1232004881CA /* SceneDelegate.swift */,
 				B5E9DED72CAE1232004881CA /* ViewController.swift */,
 				B5E9DED92CAE1232004881CA /* Main.storyboard */,
+				B5E9DEEA2CAE195D004881CA /* JuegosViewController.swift */,
 				B5E9DEDF2CAE1238004881CA /* Assets.xcassets */,
 				B5E9DEE12CAE1238004881CA /* LaunchScreen.storyboard */,
 				B5E9DEE42CAE1238004881CA /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5E9DEEB2CAE195D004881CA /* JuegosViewController.swift in Sources */,
 				B5E9DEDE2CAE1232004881CA /* QuispeMaqqueAbelColeccionDeJuegos.xcdatamodeld in Sources */,
 				B5E9DED82CAE1232004881CA /* ViewController.swift in Sources */,
 				B5E9DED42CAE1232004881CA /* AppDelegate.swift in Sources */,
